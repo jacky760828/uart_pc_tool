@@ -1,0 +1,100 @@
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\Usart1.Drawer.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\Usart1.MainForm.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.exe.config
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.exe
+F:\C#\C#Example\MyApp\MyUsart\bin\Debug\MyUsart.pdb
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.Properties.Resources.resources
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.exe
+F:\C#\C#Example\MyApp\MyUsart\obj\Debug\MyUsart.pdb
+D:\九正\winapp-uart-master\bin\Debug\MyUsart.exe.config
+D:\九正\winapp-uart-master\obj\Debug\MyUsart.exe
+D:\九正\winapp-uart-master\obj\Debug\MyUsart.pdb
+D:\九正\winapp-uart-master\bin\Debug\MyUsart.exe
+D:\九正\winapp-uart-master\bin\Debug\MyUsart.pdb
+D:\九正\winapp-uart-master\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+D:\九正\winapp-uart-master\obj\Debug\Usart1.Drawer.resources
+D:\九正\winapp-uart-master\obj\Debug\Usart1.MainForm.resources
+D:\九正\winapp-uart-master\obj\Debug\MyUsart.Properties.Resources.resources
+D:\九正\winapp-uart-master\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+D:\九正\winapp-uart-master -2\bin\Debug\MyUsart.exe.config
+D:\九正\winapp-uart-master -2\obj\Debug\MyUsart.exe
+D:\九正\winapp-uart-master -2\obj\Debug\MyUsart.pdb
+D:\九正\winapp-uart-master -2\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+D:\九正\winapp-uart-master -2\obj\Debug\Usart1.Drawer.resources
+D:\九正\winapp-uart-master -2\obj\Debug\Usart1.MainForm.resources
+D:\九正\winapp-uart-master -2\obj\Debug\MyUsart.Properties.Resources.resources
+D:\九正\winapp-uart-master -2\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+D:\九正\winapp-uart-master -2\bin\Debug\MyUsart.exe
+D:\九正\winapp-uart-master -2\bin\Debug\MyUsart.pdb
+D:\levetop\winapp-uart-master -2\bin\Debug\MyUsart.exe.config
+D:\levetop\winapp-uart-master -2\bin\Debug\MyUsart.exe
+D:\levetop\winapp-uart-master -2\bin\Debug\MyUsart.pdb
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.csproj.AssemblyReference.cache
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.csproj.SuggestedBindingRedirects.cache
+D:\levetop\winapp-uart-master -2\obj\Debug\Usart1.Drawer.resources
+D:\levetop\winapp-uart-master -2\obj\Debug\Usart1.MainForm.resources
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.Properties.Resources.resources
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.csproj.GenerateResource.cache
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.csproj.CoreCompileInputs.cache
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.exe
+D:\levetop\winapp-uart-master -2\obj\Debug\MyUsart.pdb
+D:\leveltop2\winapp-uart-master -2\bin\Debug\MyUsart.exe.config
+D:\leveltop2\winapp-uart-master -2\obj\Debug\MyUsart.exe
+D:\leveltop2\winapp-uart-master -2\obj\Debug\MyUsart.pdb
+D:\leveltop2\winapp-uart-master -2\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+D:\leveltop2\winapp-uart-master -2\obj\Debug\Usart1.Drawer.resources
+D:\leveltop2\winapp-uart-master -2\obj\Debug\Usart1.MainForm.resources
+D:\leveltop2\winapp-uart-master -2\obj\Debug\MyUsart.Properties.Resources.resources
+D:\leveltop2\winapp-uart-master -2\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+D:\leveltop2\winapp-uart-master -2\bin\Debug\MyUsart.exe
+D:\leveltop2\winapp-uart-master -2\bin\Debug\MyUsart.pdb
+D:\levetop\okgo_test\bin\Debug\MyUsart.exe.config
+D:\levetop\okgo_test\bin\Debug\MyUsart.exe
+D:\levetop\okgo_test\bin\Debug\MyUsart.pdb
+D:\levetop\okgo_test\obj\Debug\MyUsart.csproj.AssemblyReference.cache
+D:\levetop\okgo_test\obj\Debug\MyUsart.csproj.SuggestedBindingRedirects.cache
+D:\levetop\okgo_test\obj\Debug\Usart1.Drawer.resources
+D:\levetop\okgo_test\obj\Debug\Usart1.MainForm.resources
+D:\levetop\okgo_test\obj\Debug\MyUsart.Properties.Resources.resources
+D:\levetop\okgo_test\obj\Debug\MyUsart.csproj.GenerateResource.cache
+D:\levetop\okgo_test\obj\Debug\MyUsart.csproj.CoreCompileInputs.cache
+D:\levetop\okgo_test\obj\Debug\MyUsart.exe
+D:\levetop\okgo_test\obj\Debug\MyUsart.pdb
+D:\leveltop2\okgo_test\bin\Debug\MyUsart.exe.config
+D:\leveltop2\okgo_test\obj\Debug\MyUsart.exe
+D:\leveltop2\okgo_test\obj\Debug\MyUsart.pdb
+D:\leveltop2\okgo_test 2\bin\Debug\MyUsart.exe.config
+D:\leveltop2\okgo_test 2\obj\Debug\MyUsart.exe
+D:\leveltop2\okgo_test 2\obj\Debug\MyUsart.pdb
+D:\leveltop2\okgo_test 2\obj\Debug\MyUsart.csprojResolveAssemblyReference.cache
+D:\leveltop2\okgo_test 2\obj\Debug\Usart1.Drawer.resources
+D:\leveltop2\okgo_test 2\obj\Debug\Usart1.MainForm.resources
+D:\leveltop2\okgo_test 2\obj\Debug\MyUsart.Properties.Resources.resources
+D:\leveltop2\okgo_test 2\obj\Debug\MyUsart.csproj.GenerateResource.Cache
+D:\leveltop2\okgo_test 2\bin\Debug\MyUsart.exe
+D:\leveltop2\okgo_test 2\bin\Debug\MyUsart.pdb
+D:\okgo_test 2\bin\Debug\MyUsart.exe.config
+D:\okgo_test 2\bin\Debug\MyUsart.exe
+D:\okgo_test 2\bin\Debug\MyUsart.pdb
+D:\okgo_test 2\obj\Debug\MyUsart.csproj.AssemblyReference.cache
+D:\okgo_test 2\obj\Debug\MyUsart.csproj.SuggestedBindingRedirects.cache
+D:\okgo_test 2\obj\Debug\Usart1.Drawer.resources
+D:\okgo_test 2\obj\Debug\Usart1.MainForm.resources
+D:\okgo_test 2\obj\Debug\MyUsart.Properties.Resources.resources
+D:\okgo_test 2\obj\Debug\MyUsart.csproj.GenerateResource.cache
+D:\okgo_test 2\obj\Debug\MyUsart.csproj.CoreCompileInputs.cache
+D:\okgo_test 2\obj\Debug\MyUsart.exe
+D:\okgo_test 2\obj\Debug\MyUsart.pdb
+E:\2023-救援備份\okgo_test 2\bin\Debug\MyUsart.exe.config
+E:\2023-救援備份\okgo_test 2\bin\Debug\MyUsart.exe
+E:\2023-救援備份\okgo_test 2\bin\Debug\MyUsart.pdb
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.csproj.AssemblyReference.cache
+E:\2023-救援備份\okgo_test 2\obj\Debug\Usart1.Drawer.resources
+E:\2023-救援備份\okgo_test 2\obj\Debug\Usart1.MainForm.resources
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.Properties.Resources.resources
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.csproj.GenerateResource.cache
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.csproj.CoreCompileInputs.cache
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.exe
+E:\2023-救援備份\okgo_test 2\obj\Debug\MyUsart.pdb
