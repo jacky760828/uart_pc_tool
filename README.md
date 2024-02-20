@@ -1,8 +1,7 @@
 ﻿# 串口收发应用程序
+![image](https://github.com/jacky760828/uart_pc_tool/assets/71009404/0a3a1d8e-c079-4ab6-bc25-25c341c75943)
 
 > Author：Haven date：2016.4.11 。
-
-<img src="./show.jpg">
 
 功能优化及BUG解决：
 
