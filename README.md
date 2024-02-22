@@ -8,8 +8,5 @@
 
 
 
-10. 只有定时选项没有定时功能
-
-## 许可
 
 [MIT](./LICENSE) &copy; [havenxie](http://github.com/havenxie)
